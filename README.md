@@ -55,8 +55,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * What are the peak hours in which bikes are used during summer months?
-   -As illustated below the peak hours are between 7am to 9am, and 5pm to 7pm. 
-   -8am was the busiest hour of the day recording 11,442 average total trips. 
+   - As illustated below the peak hours are between 7am to 9am, and 5pm to 7pm. 
+   - 8am was the busiest hour of the day recording 11,442 average total trips. 
 
 <img width="540" alt="Peak Summer Hours" src="https://user-images.githubusercontent.com/96853408/177034332-80dd8534-404b-45ef-99b1-e6d2341ac497.PNG">
 
