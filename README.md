@@ -31,20 +31,24 @@ However, while the data has been regularly updated, the team has yet to implemen
 **The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
 * How many trips have been recorded total during the chosen period?
-- Between the Summer and Winter months of 2017, the total number of trips was 143,955 
+   - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
 
 <img width="303" alt="Number of trips recorded" src="https://user-images.githubusercontent.com/96853408/177028597-daffe67c-37ac-4a84-b5ad-44e24d81d820.PNG">
 
 * By what percentage has total ridership grown?
-- From January 2017 (12,926 rides) to August 2017 (35,472 rides) total Ridership grew by 174%.
-- This was followed by a sharp decline from August 2017 (35,472) to December (15,898), illustrating a 55% decrease. 
+   - From January 2017 (12,926 rides) to August 2017 (35,472 rides) total Ridership grew by 174%.
+   - This was followed by a sharp decline from August 2017 (35,472) to December (15,898), illustrating a 55% decrease. 
 
 <img width="270" alt="Number of trips recorded per month" src="https://user-images.githubusercontent.com/96853408/177028902-7e5dd8a4-b34b-4b92-a5ec-d80b2ae9139d.PNG">
 
 * How has the proportion of short-term customers and annual subscribers changed?
-Short-term customers started at 81 total in January, before increasing to 
+   - January illustrated 81 short-term customers to 12,827 subscribers, roughly 1 customers : to every 158 subscribers. 
+   - Comparising this to the last month of Summer. 
+   -August illustrated 2,470 short-term customers to 33,002 subscribers, roughly 1 customer : to every 13 subscriber, a signicantly closer ratio. 
+   - This signicant drop in ratio (1:158 vs. 1:13),  demonstrates the proportion of short-term rider increases dramatically during the Summer months.   
 
-<img width="434" alt="Trips by user type" src="https://user-images.githubusercontent.com/96853408/177028941-c2cda5ac-d52f-4807-a9b9-f8e78452a63d.PNG">
+<img width="434" alt="Trips by user type" src="https://user-images.githubusercontent.com/96853408/177030072-618b402e-05c0-469d-b426-257a92f4bef0.PNG">
+
 
 
 * What are the peak hours in which bikes are used during summer months?
