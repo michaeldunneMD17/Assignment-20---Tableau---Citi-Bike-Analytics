@@ -55,20 +55,55 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * What are the peak hours in which bikes are used during summer months?
+   -As illustated below the peak hours are between 7am to 9am, and 5pm to 7pm. 
+   -8am was the busiest hour of the day recording 11,442 average total trips. 
+
+<img width="540" alt="Peak Summer Hours" src="https://user-images.githubusercontent.com/96853408/177034332-80dd8534-404b-45ef-99b1-e6d2341ac497.PNG">
 
 * What are the peak hours in which bikes are used during winter months?
+   -Much like the Summer months, the peak hours were between 7am to 9am, and 5pm to 7pm. 
+   - Once again 8am was the busiest hour recording 5,130 average total trips 
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesise these are the top locations?)
+<img width="635" alt="Peak Winter Hours" src="https://user-images.githubusercontent.com/96853408/177034409-3dfc786d-b467-4e40-87af-9238b9189f17.PNG">
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+* Based on your dataset - what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesise these are the top locations?)
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-* Today, what is the gender breakdown of active participants (Male v. Female)?
+<img width="387" alt="Top Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035345-8907cb0e-a2b1-4d78-9ef5-d9092bf07cc4.PNG">
+
+
+
+
+* Based on your dataset- what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+
+
+<img width="356" alt="Top Ten Ending Stations" src="https://user-images.githubusercontent.com/96853408/177035376-766ef3a1-eeb2-4fb8-9099-42e0246b77e2.PNG">
+
+
+* What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+     -All of the these 10 stations only demonstrated one count.
+      -The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of        bike stations   
+
+
+<img width="381" alt="Bottom Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035968-9e498701-a1d8-47d9-af25-cdc1ada4633a.PNG">
+
+
+* What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+    -Similar to above - these ten stations listed only one count
+     - The bottom 10 stations for ending a journey are also similar to the bottom 10 stations in the city for starting a journey
+     
+
+<img width="398" alt="Bottom Ten Ending Stations" src="https://user-images.githubusercontent.com/96853408/177035971-23b835a4-1917-4b7a-9c4a-826ec4b2a6de.PNG">
+
+
+* Based on your dataset-what is the gender breakdown of active participants (Male v. Female)?
+<img width="397" alt="Gender Usge Percentage%" src="https://user-images.githubusercontent.com/96853408/177036005-5942bd29-d5d4-4a3d-ac1d-d8984309fae7.PNG">
+
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
+
+   -Female ridership has increased year over year but male ridership still far outpaces all genders
 
 * How does the average trip duration change by age?
 
