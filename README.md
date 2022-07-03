@@ -68,7 +68,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * Based on your dataset - what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesise these are the top locations?)
-   - The data of bike stations in the city (New York for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA              stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
+     - The data of bike stations in the city (New York for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA              stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
 <img width="387" alt="Top Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035345-8907cb0e-a2b1-4d78-9ef5-d9092bf07cc4.PNG">
 
@@ -76,15 +76,15 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * Based on your dataset- what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-   - The top 10 end vs. start stations are the same with the exception of Carmine St & 6th Ave and Central Park S & 6th Ave. However Carmine St & 6th Ave is also near     a park (Washington Square Park)
+     - The top 10 end vs. start stations are the same with the exception of Carmine St & 6th Ave and Central Park S & 6th Ave. However Carmine St & 6th Ave is also            near a park (Washington Square Park)
 
 <img width="356" alt="Top Ten Ending Stations" src="https://user-images.githubusercontent.com/96853408/177035376-766ef3a1-eeb2-4fb8-9099-42e0246b77e2.PNG">
 
 
 * What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-      -All of the these 10 stations only demonstrated one count.
-      -The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of          bike stations   
+      - All of the these 10 stations only demonstrated one count.
+      - The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of          bike stations   
 
 
 <img width="381" alt="Bottom Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035968-9e498701-a1d8-47d9-af25-cdc1ada4633a.PNG">
@@ -92,8 +92,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-     -Similar to above - these ten stations listed only one count
-     - The bottom 10 stations for ending a journey are also similar to the bottom 10 stations in the city for starting a journey
+      - Similar to above - these ten stations listed only one count
+      - The bottom 10 stations for ending a journey are also similar to the bottom 10 stations in the city for starting a journey
      
 
 <img width="398" alt="Bottom Ten Ending Stations" src="https://user-images.githubusercontent.com/96853408/177035971-23b835a4-1917-4b7a-9c4a-826ec4b2a6de.PNG">
@@ -108,7 +108,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
-   -Female ridership increased steadily as the year progressed, but generally remained at around the 20% mark. Males users on the other hand were generally listed at      around the 70-75% mark across the six months analysed 
+   - Female ridership increased steadily as the year progressed, but generally remained at around the 20% mark. Males users on the other hand were generally listed at      around the 70-75% mark across the six months analysed 
 
 * How does the average trip duration change by age?
   - Starting down with the eldest age recorded - 77 years old, the data steadily increases to 32 years old. 
