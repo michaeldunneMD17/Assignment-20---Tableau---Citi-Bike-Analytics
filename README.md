@@ -106,12 +106,11 @@ However, while the data has been regularly updated, the team has yet to implemen
    -Female ridership has increased year over year but male ridership still far outpaces all genders
 
 * How does the average trip duration change by age?
+  - Starting down with the eldest age recorded - 77 years old, the data steadily increases to 32. 
+  - Average duration remians stagnant from users aged 31 to 28, then begins to decline sharply from 27 years or younger.  
 
-* What is the average distance in miles that a bike is ridden?
+  Average Trip Duration vs. Age.PNG
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-
-* How variable is the utilisation by bike ID?
 
 **Next, as a chronic over-achiever:**
 
