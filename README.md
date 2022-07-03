@@ -43,8 +43,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How has the proportion of short-term customers and annual subscribers changed?
    - January illustrated 81 short-term customers to 12,827 subscribers, roughly 1 customers : to every 158 subscribers. 
-   - Comparising this to the last month of Summer. 
-   -August illustrated 2,470 short-term customers to 33,002 subscribers, roughly 1 customer : to every 13 subscriber, a signicantly closer ratio. 
+   - Comparising this to the last month of Summe.
+   - August - illustrated 2,470 short-term customers to 33,002 subscribers, roughly 1 customer : to every 13 subscriber, a signicantly closer ratio. 
    - This signicant drop in ratio (1:158 vs. 1:13),  demonstrates the proportion of short-term rider increases dramatically during the Summer months.   
 
 <img width="434" alt="Trips by user type" src="https://user-images.githubusercontent.com/96853408/177030072-618b402e-05c0-469d-b426-257a92f4bef0.PNG">
