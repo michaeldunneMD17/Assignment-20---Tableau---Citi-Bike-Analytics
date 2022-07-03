@@ -109,7 +109,8 @@ However, while the data has been regularly updated, the team has yet to implemen
   - Starting down with the eldest age recorded - 77 years old, the data steadily increases to 32. 
   - Average duration remians stagnant from users aged 31 to 28, then begins to decline sharply from 27 years or younger.  
 
-  Average Trip Duration vs. Age.PNG
+  <img width="540" alt="Average Trip Duration vs  Age" src="https://user-images.githubusercontent.com/96853408/177037157-454d71ff-9fc8-4552-98de-2704a45a278e.PNG">
+
 
 
 **Next, as a chronic over-achiever:**
