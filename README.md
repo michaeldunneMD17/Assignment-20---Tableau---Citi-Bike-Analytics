@@ -90,7 +90,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-    -Similar to above - these ten stations listed only one count
+      -Similar to above - these ten stations listed only one count
      - The bottom 10 stations for ending a journey are also similar to the bottom 10 stations in the city for starting a journey
      
 
