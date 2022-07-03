@@ -103,7 +103,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
-   -Female ridership has increased year over year but male ridership still far outpaces all genders
+   -Female ridership increased steadily as the year progressed, but generally remained at around the 20% mark. Males users on the other hand were generally listed at      around the 70-75% mark across the six months analysed 
 
 * How does the average trip duration change by age?
   - Starting down with the eldest age recorded - 77 years old, the data steadily increases to 32 years old. 
