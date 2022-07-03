@@ -33,14 +33,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 **I decided to focus on comparing data from the Winter (January, February, December) to the Summer (June, July, August) months from the year 2017. Based primarily on the weather, I hypothesised that the total trips/ usage would be drastically higher during the Summer. Below are some summarised answers to questions relating to my analysis.**
 
 * How many trips have been recorded total during the chosen period?
-   - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
+     - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
 
 <img width="377" alt="Number of trips recorded" src="https://user-images.githubusercontent.com/96853408/177030646-d44665e9-7dc6-4060-9d9a-ece667e29c5e.PNG">
 
 
 * By what percentage has total ridership grown?
-   - From January 2017 (12,926 rides) to August 2017 (35,472 rides) total Ridership grew by 174%.
-   - This was followed by a sharp decline from August 2017 (35,472) to December (15,898), illustrating a 55% decrease. 
+     - From January 2017 (12,926 rides) to August 2017 (35,472 rides) total Ridership grew by 174%.
+     - This was followed by a sharp decline from August 2017 (35,472) to December (15,898), illustrating a 55% decrease. 
 
 <img width="270" alt="Number of trips recorded per month" src="https://user-images.githubusercontent.com/96853408/177028902-7e5dd8a4-b34b-4b92-a5ec-d80b2ae9139d.PNG">
 
@@ -61,14 +61,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 <img width="540" alt="Peak Summer Hours" src="https://user-images.githubusercontent.com/96853408/177034332-80dd8534-404b-45ef-99b1-e6d2341ac497.PNG">
 
 * What are the peak hours in which bikes are used during winter months?
-   -Much like the Summer months, the peak hours were between 7am to 9am, and 5pm to 7pm. 
+   - Much like the Summer months, the peak hours were between 7am to 9am, and 5pm to 7pm. 
    - Once again 8am was the busiest hour recording 5,130 average total trips 
 
 <img width="635" alt="Peak Winter Hours" src="https://user-images.githubusercontent.com/96853408/177034409-3dfc786d-b467-4e40-87af-9238b9189f17.PNG">
 
 
 * Based on your dataset - what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesise these are the top locations?)
-
+   - The data of bike stations in the city (New York for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA              stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
 <img width="387" alt="Top Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035345-8907cb0e-a2b1-4d78-9ef5-d9092bf07cc4.PNG">
 
@@ -76,7 +76,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * Based on your dataset- what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-
+   - The top 10 end vs. start stations are the same with the exception of Carmine St & 6th Ave and Central Park S & 6th Ave. However Carmine St & 6th Ave is also near     a park (Washington Square Park)
 
 <img width="356" alt="Top Ten Ending Stations" src="https://user-images.githubusercontent.com/96853408/177035376-766ef3a1-eeb2-4fb8-9099-42e0246b77e2.PNG">
 
