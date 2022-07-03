@@ -30,6 +30,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
+**I decided to focus on comparing data from the Winter (January, February, December) to the Summer (June, July, August) months from the year 2017. Based primarily on the weather, I hypothesised that the total trips/ usage would be drastically higher during the Summer. Below are some summarised answers to questions relating to my analysis.
+
 * How many trips have been recorded total during the chosen period?
    - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
 
