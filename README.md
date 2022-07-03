@@ -82,8 +82,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-     -All of the these 10 stations only demonstrated one count.
-      -The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of        bike stations   
+
+      -All of the these 10 stations only demonstrated one count.
+      -The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of          bike stations   
 
 
 <img width="381" alt="Bottom Ten Starting Stations" src="https://user-images.githubusercontent.com/96853408/177035968-9e498701-a1d8-47d9-af25-cdc1ada4633a.PNG">
@@ -99,6 +100,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 * Based on your dataset-what is the gender breakdown of active participants (Male v. Female)?
+   - Male      72.12%
+   - Female    20.66%
+   - Other      7.22%
 <img width="397" alt="Gender Usge Percentage%" src="https://user-images.githubusercontent.com/96853408/177036005-5942bd29-d5d4-4a3d-ac1d-d8984309fae7.PNG">
 
 
