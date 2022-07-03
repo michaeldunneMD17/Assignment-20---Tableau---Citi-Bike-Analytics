@@ -35,7 +35,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 * How many trips have been recorded total during the chosen period?
    - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
 
-<img width="303" alt="Number of trips recorded" src="https://user-images.githubusercontent.com/96853408/177028597-daffe67c-37ac-4a84-b5ad-44e24d81d820.PNG">
+<img width="377" alt="Number of trips recorded" src="https://user-images.githubusercontent.com/96853408/177030646-d44665e9-7dc6-4060-9d9a-ece667e29c5e.PNG">
+
 
 * By what percentage has total ridership grown?
    - From January 2017 (12,926 rides) to August 2017 (35,472 rides) total Ridership grew by 174%.
