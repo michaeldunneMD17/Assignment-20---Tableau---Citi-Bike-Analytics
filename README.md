@@ -32,6 +32,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **I decided to focus on comparing data from the Winter (January, February, December) to the Summer (June, July, August) months from the year 2017. Based primarily on the weather, I hypothesised that the total trips/ usage would be drastically higher during the Summer. Below are some summarised answers to questions relating to my analysis.**
 
+https://public.tableau.com/app/profile/michael4736/viz/CitiBikeAnalysis_16561083433970/Wintervs_SummerStory?publish=yes 
+
 * How many trips have been recorded total during the chosen period?
      - Between the Summer and Winter months of 2017, the total number of trips was 143,955 
 
